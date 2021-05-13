@@ -1,0 +1,33 @@
+#par1{
+    border-style: groove;
+    border-width: 3px 5px 7px;
+    border-color: red;
+    border-radius: 5px;
+    margin:auto;
+    width:50%;
+    /* margin:inherit; */
+    /* border-widt;h: 8px; */
+    /* border-color: rgb(red, green, blue);
+    border-color: rgba(red, green, blue, alpha) */
+    /* shorthand */
+    /* border: 5px dotted #f00; */
+
+}
+#par2{
+    border-style: groove;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 5px;
+    margin:auto;
+    width:50%;
+    margin-top: 10%;
+    margin-left: 20%;
+
+
+}
+
+/* inherit özelliği için yaptık. */
+/* div {
+    margin: 30px;
+    border:1px solid black;
+} */
