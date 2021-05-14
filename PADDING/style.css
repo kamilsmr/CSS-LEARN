@@ -1,0 +1,16 @@
+p {
+    border: 1px solid red;
+    /* padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+    /* padding: 5px 10px 10px 10px; */
+    /* padding: 10px 15px 10px; */
+    /* padding: 10px; */
+    
+}
+div {
+    border: 1px solid blue;
+    background-color: yellow;
+    padding: 10px;
+}
