@@ -12,7 +12,7 @@ h1 {
     border: 1px solid;
     margin: 50px;
     padding: 10px;
-    text-align: justify;
+    /* text-align: left; */
     /* text-decoration: overline; */
      /* text-decoration: line-through; */
       /* text-decoration: overline; */
@@ -20,7 +20,13 @@ h1 {
     text-transform: uppercase;
     text-transform: capitalize; */
     /* text-indent: 50px; */
-    letter-spacing: 3px;
+    /* letter-spacing: 3px; */
+    /* line-height: 2; */
+    /* direction: rtl; */
+    /* direction: ltr; */
+    /* unicode-bidi: bidi-override; */
+    /* word-spacing: 40px; */
+
 
 
 
@@ -30,4 +36,8 @@ div {
     padding: 20px;
     margin: 100px;
 
+}
+
+h2 {
+    text-shadow: 2px 2px 3px red;
 }
