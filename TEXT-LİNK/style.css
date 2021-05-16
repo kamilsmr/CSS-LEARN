@@ -57,3 +57,59 @@ h2 {
     /* font-size: 3vw; */
     font-size: 300%; /* belirttiğimiz fontsize body=16px 3 katı*/
 }
+
+#link1 {
+color: black;
+background-color: rgb(172, 139, 233);
+font-size: 20px;
+padding: 10px;
+text-decoration: none;
+font-weight: bold;
+border-radius: 15px;
+
+
+}
+#link1:visited{
+    color: green;
+    background-color: yellow;
+}
+#link1:hover {
+    background-color: aqua;
+
+}
+#link2 {
+    color: black;
+background-color: rgb(103, 223, 119);
+font-size: 20px;
+padding: 10px;
+text-decoration: none;
+font-weight: bold;
+border-radius: 15px;
+}
+#link2:hover {
+    background-color: aqua;
+}
+#link3 {
+    color: black;
+background-color: rgb(212, 153, 212);
+font-size: 20px;
+padding: 10px;
+text-decoration: none;
+font-weight: bold;
+border-radius: 15px;
+}
+#link3:hover {
+    background-color: aqua;
+}
+#link4 {
+    color: black;
+background-color: coral;
+font-size: 20px;
+padding: 10px;
+text-decoration: none;
+font-weight: bold;
+border-radius: 15px;
+}
+#link4:hover {
+    background-color: aqua;
+}
