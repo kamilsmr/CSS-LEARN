@@ -5,7 +5,8 @@ p {
     font-size: 20px;
     padding: 20px;
     margin: 30px;
-
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 h1 {
     background-color: aqua;
@@ -26,6 +27,7 @@ h1 {
     /* direction: ltr; */
     /* unicode-bidi: bidi-override; */
     /* word-spacing: 40px; */
+    font-family: 'Dancing Script', cursive;
 
 
 
