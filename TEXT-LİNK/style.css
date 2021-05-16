@@ -1,12 +1,20 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 16px; /* 1em*/
+}
 p {
     border: 1px solid red;
     background-color: green;
     color: #ffffff;
-    font-size: 20px;
+    /* font-size: 1em; */
+    font-size: 2vw;
     padding: 20px;
     margin: 30px;
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-family: 'PT Sans Narrow', sans-serif;
+    font-style: italic;
 }
 h1 {
     background-color: aqua;
@@ -28,6 +36,9 @@ h1 {
     /* unicode-bidi: bidi-override; */
     /* word-spacing: 40px; */
     font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    font-size: 3vw;
+    font-variant: small-caps; /* küçük harfleri büyütüp */
 
 
 
@@ -38,8 +49,11 @@ div {
     padding: 20px;
     margin: 100px;
 
+
 }
 
 h2 {
     text-shadow: 2px 2px 3px red;
+    /* font-size: 3vw; */
+    font-size: 300%; /* belirttiğimiz fontsize body=16px 3 katı*/
 }
